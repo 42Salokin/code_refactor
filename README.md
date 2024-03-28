@@ -14,6 +14,8 @@ Access updated website online at:
 
 https://42salokin.github.io/code_refactor/
 
+![Alt text](./assets/Screenshot%20.jpg)
+
 ## Credits
 
 N/A
